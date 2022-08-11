@@ -5,7 +5,7 @@ In conjunction with **[MICRO 2022](https://www.microarch.org/micro55/)**
 
 ## News
 
-**Aug 11, 2020:**  Site Under Construction
+**Aug 11, 2022:**  Site Under Construction
 
 ## Background
 [FastPath 2022](https://fastpathconference.github.io/FastPath2022/) brings together researchers and practitioners involved in cross-stack hardware/software performance analysis, modeling, and evaluation for efficient machine learning systems. Machine learning demands tremendous amount of computing. Current machine learning systems are diverse, including cellphones, high performance computing systems, database systems, self-driving cars, robotics, and in-home appliances. Many machine-learning systems have customized hardware and/or software. The types and components of such systems vary, but a partial list includes traditional CPUs assisted with accelerators (ASICs, FPGAs, GPUs), memory accelerators, I/O accelerators, hybrid systems, converged infrastructure, and IT appliances. Designing efficient machine learning systems poses several challenges.
@@ -40,8 +40,8 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
  
 | Item                       | Date               |
 | ----                       | ----:              |
-| Submission                 | September  9, 2021 |
-| Notification               | September 19, 2021 |
+| Submission                 | September  9, 2022 |
+| Notification               | September 19, 2022 |
 | Workshop                   | TBD                |
 
 ## Organizers
@@ -49,7 +49,7 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 | Role            | People                                                           |
 | ----            | ----                                                             |
 | General Chair   | Erik Altman (IBM)                                                |
-| Program Chairs  | Parijat Dube (IBM), Nandita Vijarkumar (University of Toronto)   |
+| Program Chairs  | Parijat Dube (IBM), Nandita Vijaykumar (University of Toronto)   |
 | Web Chair       | Gavin Guan (University of Toronto)                               |
 | Publicity Chair | TBD                                                              |
 
