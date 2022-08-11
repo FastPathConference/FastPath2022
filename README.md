@@ -1,14 +1,14 @@
 ## International Workshop on Performance Analysis of Machine Learning Systems
-March 28, 2021 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13:00 - 21:00 UTC)*
+October 2, 2022 -- Chicago
 
-In conjunction with **[ISPASS 2021](https://www.ispass.org/ispass2021)**
+In conjunction with **[MICRO 2022](https://www.microarch.org/micro55/)**
 
 ## News
 
-**December 7, 2020:**  Site Under Construction
+**Aug 11, 2020:**  Site Under Construction
 
 ## Background
-[FastPath 2021](https://fastpath2020.github.io/FastPath2021/) brings together researchers and practitioners involved in cross-stack hardware/software performance analysis, modeling, and evaluation for efficient machine learning systems. Machine learning demands tremendous amount of computing. Current machine learning systems are diverse, including cellphones, high performance computing systems, database systems, self-driving cars, robotics, and in-home appliances. Many machine-learning systems have customized hardware and/or software. The types and components of such systems vary, but a partial list includes traditional CPUs assisted with accelerators (ASICs, FPGAs, GPUs), memory accelerators, I/O accelerators, hybrid systems, converged infrastructure, and IT appliances. Designing efficient machine learning systems poses several challenges.
+[FastPath 2022](https://fastpathconference.github.io/FastPath2022/) brings together researchers and practitioners involved in cross-stack hardware/software performance analysis, modeling, and evaluation for efficient machine learning systems. Machine learning demands tremendous amount of computing. Current machine learning systems are diverse, including cellphones, high performance computing systems, database systems, self-driving cars, robotics, and in-home appliances. Many machine-learning systems have customized hardware and/or software. The types and components of such systems vary, but a partial list includes traditional CPUs assisted with accelerators (ASICs, FPGAs, GPUs), memory accelerators, I/O accelerators, hybrid systems, converged infrastructure, and IT appliances. Designing efficient machine learning systems poses several challenges.
 
 These include distributed training on big data, hyper-parameter tuning for models, emerging accelerators, fast I/O for random inputs, approximate computing for training and inference, programming models for a diverse machine-learning workloads, high-bandwidth interconnect, efficient mapping of processing logic on hardware, and cross system stack performance optimization. Emerging infrastructure supporting big data analytics, cognitive computing, large-scale machine learning, mobile computing, and internet-of-things, exemplify system designs optimized for machine learning at large.
 
@@ -32,26 +32,26 @@ FastPath seeks to facilitate the exchange of ideas on performance analysis and e
 
 ## Submission
 
-Prospective authors must submit a 2-4 page extended abstract electronically on **[EasyChair](https://easychair.org/conferences/?conf=fastpath2021)**
+Prospective authors must submit a 2-4 page extended abstract electronically on **[EasyChair](https://easychair.org/conferences/?conf=fastpath2022)**
 
 Authors of selected abstracts will be invited to give a 30-min presentation at the workshop.
 
 ## Key Dates
  
-| Item                       | Date              |
-| ----                       | ----:             |
-| Submission                 | February 15, 2021 |
-| Notification               | March     1, 2021 |
-| Workshop                   | March    28, 2021 |
+| Item                       | Date               |
+| ----                       | ----:              |
+| Submission                 | September  9, 2021 |
+| Notification               | September 19, 2021 |
+| Workshop                   | TBD                |
 
 ## Organizers
 
-| Role            | People                       |
-| ----            | ----                         |
-| General Chair   | Erik Altman (IBM)            |
-| Program Chairs  | Parijat Dube (IBM)           |
-|                 | TBD                          |
-| Publicity Chair | TBD                          |
+| Role            | People                                                           |
+| ----            | ----                                                             |
+| General Chair   | Erik Altman (IBM)                                                |
+| Program Chairs  | Parijat Dube (IBM), Nandita Vijarkumar (University of Toronto)   |
+| Web Chair       | Gavin Guan (University of Toronto)                               |
+| Publicity Chair | TBD                                                              |
 
 ## Program Committee
 
@@ -61,6 +61,8 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 
 
 ## Previous Editions
+
+**[FastPath 2021](https://fastpath2020.github.io/FastPath2021/)** was held in conjunction with ISPASS 2021.
 
 **[FastPath 2020](https://fastpath2020.github.io)** was held in conjunction with ISPASS 2020. Full-day with 7 invited speakers and 2 regular speakers.
 
