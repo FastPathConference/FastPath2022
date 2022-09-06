@@ -3,9 +3,6 @@ October 2, 2022 -- Chicago
 
 In conjunction with **[MICRO 2022](https://www.microarch.org/micro55/)**
 
-## News
-
-**Aug 11, 2022:**  Site Under Construction
 
 ## Background
 [FastPath 2022](https://fastpathconference.github.io/FastPath2022/) brings together researchers and practitioners involved in cross-stack hardware/software performance analysis, modeling, and evaluation for efficient machine learning systems. Machine learning demands tremendous amount of computing. Current machine learning systems are diverse, including cellphones, high performance computing systems, database systems, self-driving cars, robotics, and in-home appliances. Many machine-learning systems have customized hardware and/or software. The types and components of such systems vary, but a partial list includes traditional CPUs assisted with accelerators (ASICs, FPGAs, GPUs), memory accelerators, I/O accelerators, hybrid systems, converged infrastructure, and IT appliances. Designing efficient machine learning systems poses several challenges.
@@ -42,7 +39,7 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 | ----                       | ----:              |
 | Submission                 | September  9, 2022 |
 | Notification               | September 19, 2022 |
-| Workshop                   | TBD                |
+| Workshop                   | October 2, 2022    |
 
 ## Organizers
 
@@ -55,9 +52,28 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 
 ## Program Committee
 
-| PC Member            | Affiliation               |
-| ----                 | ----                      |
-| TBD                  | TBD                       |
+| PC Member            | Affiliation                        |
+| ----                 | ----                               |
+| Vignesh Balaji       | NVidia                             |
+| Ulrich Finkler       | IBM                                |
+| Christina Giannoula  | University of Toronto              |
+| Siva Hari            | NVidia                             |
+| Lei Jiang            | Indiana University – Bloomington   |
+| Jongsoo Park         | Facebook                           |
+| Brandon Reagan       | NYU / Facebook                     |
+| Jaewoong Sim         | Seoul National University          |
+| Zehra Sura           | Bloomberg                          |
+| Ana Varbanescu       | TU Delft                           |
+
+
+## Invited Speakers
+
+| Speaker                | Affiliation                                   |
+| ----                   | ----                                          |
+| Tor Aamodt             | University of British Columbia                |
+| Saugata Ghose          | University of Illinois at Urbana-Champaign    |
+| Eliu A. Huerta         | University of Chicago / Argonne National Lab  |
+| Andreas Moshovos       | University of Toronto                         |
 
 
 ## Previous Editions
