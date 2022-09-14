@@ -37,8 +37,8 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
  
 | Item                       | Date               |
 | ----                       | ----:              |
-| Submission                 | September  9, 2022 |
-| Notification               | September 19, 2022 |
+| Submission                 | September 19, 2022 |
+| Notification               | September 26, 2022 |
 | Workshop                   | October 2, 2022    |
 
 ## Organizers
