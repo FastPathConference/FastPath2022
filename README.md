@@ -68,12 +68,14 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 
 ## Invited Speakers
 
-| Speaker                | Affiliation                                   |
-| ----                   | ----                                          |
-| Tor Aamodt             | University of British Columbia                |
-| Saugata Ghose          | University of Illinois at Urbana-Champaign    |
-| Eliu A. Huerta         | University of Chicago / Argonne National Lab  |
-| Andreas Moshovos       | University of Toronto                         |
+| Speaker                                                                                          | Affiliation                                   |
+| ----                                                                                             | ----                                          |
+| **[Tor Aamodt](https://people.ece.ubc.ca/aamodt/)**                                              | University of British Columbia                |
+| **[Saugata Ghose](https://ghose.web.illinois.edu/)**                                             | University of Illinois at Urbana-Champaign    |
+| **[Eliu A. Huerta](https://www.anl.gov/profile/eliu-a-huerta)**                                  | University of Chicago / Argonne National Lab  |
+| **[Yuan Lo](https://www.anl.gov/profile/eliu-a-huerta)**                                         | Northwestern University                       |
+| **[Andreas Moshovos](https://www.eecg.utoronto.ca/~moshovos/000/doku.php)**                      | University of Toronto                         |
+| **[Seetharami Seelam](https://researcher.watson.ibm.com/researcher/view.php?person=us-sseelam)** | IBM Research                                  |
 
 
 ## Previous Editions
