@@ -1,7 +1,7 @@
 ## Program
 October 2, 2022 (8:35 am - 5:00 pm US CDT = 1:35 pm - 10:00 pm UTC) -- Chicago
 
-**[FastPath 2022](https://fastpathconference.github.io/FastPath2022/Program/)** In conjunction with **[MICRO 2022](https://www.microarch.org/micro55/)**
+**[FastPath 2022](https://fastpathconference.github.io/FastPath2022/)** In conjunction with **[MICRO 2022](https://www.microarch.org/micro55/)**
 
 
 ## Speakers
