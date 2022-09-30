@@ -7,7 +7,7 @@ October 2, 2022 (8:35 am - 5:00 pm US CDT = 1:35 pm - 10:00 pm UTC) -- Chicago
 ## Speakers
 
 | Time | Speaker | Affiliation | Talk Title | Slides/Paper | Video |
-| ---- | ----       | ----    | ----        | ----       | ----   | ----  |
+| ----       | ----    | ----        | ----       | ----   | ----  |
 | 8:35             |         |             | *Welcome and Opening Remarks*     |        |  |
 |                  |         |             |            |        |       |
 | 8:40 - 9:25       | **[Andreas Moshovos](https://fastpathconference.github.io/FastPath2022/Program/Moshovos)**             | University of Toronto                          | Ingesting and Processing Data Efficiently for Machine Learning |   |  |
