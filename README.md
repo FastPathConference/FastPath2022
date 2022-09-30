@@ -47,7 +47,7 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 | ----            | ----                                                             |
 | General Chair   | Erik Altman (IBM)                                                |
 | Program Chairs  | Parijat Dube (IBM), Nandita Vijaykumar (University of Toronto)   |
-| Web Chair       | Gavin Guan (University of Toronto)                               |
+| Web Chair       | Gavin (Yushi) Guan (University of Toronto)                               |
 | Publicity Chair | TBD                                                              |
 
 ## Program Committee
