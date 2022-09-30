@@ -1,4 +1,4 @@
-## [Andreas Moshovos](https://anakli.inf.ethz.ch)
+## [Andreas Moshovos](https://www.eecg.utoronto.ca/~moshovos/000/doku.php)
 ### Department of Electrical and Computer Engineering -- University of Toronto
 
 <img src="https://www.eecg.utoronto.ca/~moshovos/000/lib/exe/fetch.php?cache=&media=fatsa2017.jpg" width="250">
