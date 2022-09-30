@@ -23,6 +23,6 @@ October 2, 2022 -- Chicago
 | 1:05 | 1:50       | **[Saugata Ghose](https://fastpathconference.github.io/FastPath2022/Program/Ghose)**             | Univ Illinois Urbana-Champaign                          | Using Processing-in-Memory to Accelerate Edge Machine Learning |   |  |
 | 2:00 | 2:45       | **[Eliu A. Huerta](https://fastpathconference.github.io/FastPath2022/Program/Huerta)**             | Argonne National Laboratory                          | AI4Physics: From Conceptualization to AI-Driven Discovery at Scale |   |  |
 | 2:55 | 3:30       |              |                           | **Break** |   |  |
-| 3:30 | 3:55       | **[Antonino Tumeo](https://fastpathconference.github.io/FastPath2022/Program/Tumeo)**             | Pacific Northwest National Lab                        | SODA: An End-To-End Open-Source Hardware Compiler for Machine Learning Accelerators |   |  |
+| 3:30 | 3:55       | **[Antonino Tumeo](https://fastpathconference.github.io/FastPath2022/Program/Tumeo)**             | Pacific Northwest National Lab                        | SODA: An End-To-End Open-Source Hardware Compiler for Machine Learning Accelerators | **[Paper](https://fastpathconference.github.io/FastPath2022/Program/FastPath2022_paper_8360.pdf)**  |  |
 | 4:00 | 4:45       | **[Tor Aamodt](https://fastpathconference.github.io/FastPath2022/Program/Aamodt)**             | University of British Columbia                        | Faster Learning on Slow Hardware |   |  |
 | 2:55 | 3:30       |              |                           | *Closing Remarks* |   |  |
