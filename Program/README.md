@@ -15,7 +15,7 @@ October 2, 2022 (8:35 am - 5:00 pm US CDT = 1:35 pm - 10:00 pm UTC) -- Chicago
 |                  |         |             |            |        |       |
 | 10:30 - 11:00       |              |                           | **Break** |   |  |
 |                  |         |             |            |        |       |
-| 11:00 - 11:45       | **[Bhatta Bhattacharjee](https://fastpathconference.github.io/FastPath2022/Program/Bhattacharjee)**             | IBM Research                          | **TBD** |   |  |
+| 11:00 - 11:45       | **[Bhatta Bhattacharjee](https://fastpathconference.github.io/FastPath2022/Program/Bhattacharjee)**             | IBM Research                          | System Requirements for Deep Learning Foundational Models |   |  |
 |                  |         |             |            |        |       |
 | 11:55 - 1:05       |              |                           | **Lunch** |   |  |
 |                  |         |             |            |        |       |
