@@ -74,11 +74,12 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 | Speaker                                                                                          | Affiliation                                   |
 | ----                                                                                             | ----                                          |
 | **[Tor Aamodt](https://people.ece.ubc.ca/aamodt/)**                                              | University of British Columbia                |
+| **[Bhatta Bhattacharjee](https://researcher.watson.ibm.com/researcher/view.php?person=us-bhatta)** | IBM Research                                  |
 | **[Saugata Ghose](https://ghose.web.illinois.edu/)**                                             | University of Illinois at Urbana-Champaign    |
 | **[Eliu A. Huerta](https://www.anl.gov/profile/eliu-a-huerta)**                                  | University of Chicago / Argonne National Lab  |
 | **[Yuan Lo](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=33821)**                                         | Northwestern University                       |
 | **[Andreas Moshovos](https://www.eecg.utoronto.ca/~moshovos/000/doku.php)**                      | University of Toronto                         |
-| **[Seetharami Seelam](https://researcher.watson.ibm.com/researcher/view.php?person=us-sseelam)** | IBM Research                                  |
+| **[Antonino Tumeo](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=7437)**                      | Pacific Northwest National Laboratory                         |
 
 
 ## Previous Editions
