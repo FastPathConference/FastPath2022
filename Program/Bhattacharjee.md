@@ -1,4 +1,4 @@
-## [Bhatta Bhattacharjee](https://researcher.watson.ibm.com/researcher/view.php?person=us-bhatta)
+## [Bishwaranjan Bhattacharjee](https://researcher.watson.ibm.com/researcher/view.php?person=us-bhatta)
 ### Senior Technical Staff Member -- IBM T.J. Watson Research Center
 
 <img src="https://s3.us.cloud-object-storage.appdomain.cloud/res-photos/2355.jpg" width="250">
