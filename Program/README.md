@@ -26,5 +26,5 @@ October 2, 2022 (8:35 am - 5:00 pm US CDT = 1:35 pm - 10:00 pm UTC) -- Chicago
 | 2:55 - 3:30       |              |                           | **Break** |   |  |
 |                  |         |             |            |        |       |
 | 3:30 - 3:55       | **[Antonino Tumeo](https://fastpathconference.github.io/FastPath2022/Program/Tumeo)**             | Pacific Northwest National Lab                        | SODA: An End-To-End Open-Source Hardware Compiler for Machine Learning Accelerators | **[Paper](https://fastpathconference.github.io/FastPath2022/Program/FastPath2022_paper_8360.pdf)**  |  **[Video](https://youtu.be/xlzRtADPXY8)**|
-| 4:00 - 4:45       | **[Tor Aamodt](https://fastpathconference.github.io/FastPath2022/Program/Aamodt)**             | University of British Columbia                        | Faster Learning on Slow Hardware |   |  |
-| 4:55 - 5:00       |              |                           | *Closing Remarks* |   |**[Video](https://youtu.be/4PwqyxvIoUg)**  |
+| 4:00 - 4:45       | **[Tor Aamodt](https://fastpathconference.github.io/FastPath2022/Program/Aamodt)**             | University of British Columbia                        | Faster Learning on Slow Hardware |   |  **[Video](https://youtu.be/4PwqyxvIoUg)**  |
+| 4:55 - 5:00       |              |                           | *Closing Remarks* |   ||
