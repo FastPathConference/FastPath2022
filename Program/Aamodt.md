@@ -5,9 +5,9 @@
 
 ### Invited Talk:  *Faster Learning on Slow Hardware*
 
-### [Slides]()
+### [Slides](https://fastpathconference.github.io/FastPath2022/Program/FastPath2022_Tor_Aamodt.pdf)
 
-### [Video]()
+### [Video](https://youtu.be/4PwqyxvIoUg)
 
 **Abstract:**
 
