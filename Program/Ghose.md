@@ -5,9 +5,9 @@
 
 ### Invited Talk:  *Using Processing-in-Memory to Accelerate Edge Machine Learning*
 
-### [Slides]()
+### [Slides](https://fastpathconference.github.io/FastPath2022/Program/FastPath2022_Saugata_Ghose.pdf)
 
-### [Video]()
+### [Video](https://youtu.be/SouCtVfxOwg)
 
 **Abstract:**
 
