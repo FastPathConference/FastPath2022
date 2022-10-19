@@ -5,9 +5,7 @@
 
 ### Invited Talk:  *Machine Learning for Better Medicine*
 
-### [Slides]()
-
-### [Video]()
+### [Slides](https://fastpathconference.github.io/FastPath2022/Program/FastPath2022_Yuan_Luo.pdf)
 
 **Abstract:**
 
