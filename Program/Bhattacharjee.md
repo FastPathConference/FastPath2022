@@ -5,9 +5,9 @@
 
 ### Invited Talk:  **System Requirements for Deep Learning Foundational Models**
 
-### [Slides]()
+### [Slides](https://fastpathconference.github.io/FastPath2022/Program/FastPath2022_B_Bhattacharjee.pdf)
 
-### [Video]()
+### [Video](https://youtu.be/zZrw1hz-PmA)
 
 **Abstract:**
 
