@@ -5,9 +5,9 @@
 
 ### Invited Talk:  *SODA:  An End-To-End Open-Source Hardware Compiler for Machine Learning Accelerators*
 
-### [Slides]()
+### [Slides](https://fastpathconference.github.io/FastPath2022/Program/FastPath2022_Antonino_Tumeo.pdf)
 
-### [Video]()
+### [Video](https://youtu.be/xlzRtADPXY8)
 
 **Abstract:**
 
