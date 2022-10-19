@@ -5,9 +5,9 @@
 
 ### Invited Talk:  *Boosting Machine Learning Innovation: Computing Systems that Learn and Adapt*
 
-### [Slides]()
+### [Slides](https://fastpathconference.github.io/FastPath2022/Program/FastPath2022_Andreas_Moshovos.pdf)
 
-### [Video]()
+### [Video](https://youtu.be/Ad81gId1Bew)
 
 **Abstract:**
 
