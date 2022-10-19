@@ -6,9 +6,9 @@ Argonne National Laboratory
 
 ### Invited Talk:  *AI4Physics:  From Conceptualization to AI-Driven Discovery at Scale*
 
-### [Slides]()
+### [Slides](https://fastpathconference.github.io/FastPath2022/Program/FastPath2022_Eliu_Huerta.pdf)
 
-### [Video]()
+### [Video](https://youtu.be/6wFTOOJ4n9A)
 
 **Abstract:**
 
